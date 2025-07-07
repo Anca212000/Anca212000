@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and UI/UX designer from Romania, but also having good skills as a full-stack developer.</h3>
 
 <div align="center">
-  <img width="80" height="80" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img width="auto" height="80" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVhY2NkZnRqcGg2andyeGVtYTdoZ3J4ZmFkN2d4bDRoNHpma2ZocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
 
 <div align="center">
