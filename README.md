@@ -2,12 +2,7 @@
 <h3 align="center">A passionate frontend developer and UI/UX designer from Romania, but also having good skills as a full-stack developer.</h3>
 
 <div align="center">
-  <img width="auto" height="80" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVhY2NkZnRqcGg2andyeGVtYTdoZ3J4ZmFkN2d4bDRoNHpma2ZocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anca212000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anca212000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img width="auto" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVhY2NkZnRqcGg2andyeGVtYTdoZ3J4ZmFkN2d4bDRoNHpma2ZocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anca212000&label=Profile%20views&color=0e75b6&style=flat" alt="anca212000" /> </p>
@@ -18,9 +13,14 @@
 
 - 💬 Ask me about **React, Vue**
 
-- 📫 How to reach me **ancaprodan01@gmail.com**
+- 📫 How to reach me **ancaprodan01@gmail.com** | **anca.prodan21@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JOydwe4W8HX5WnCcZ-Ob8CvUgdEYMF8Z/view?usp=drive_link](https://drive.google.com/file/d/1JOydwe4W8HX5WnCcZ-Ob8CvUgdEYMF8Z/view?usp=drive_link)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anca212000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" background-color:violet; />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anca212000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="background-color:violet;"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
