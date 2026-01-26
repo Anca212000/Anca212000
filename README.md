@@ -1,6 +1,12 @@
+<!-- <div align="center">
+  <img src="https://github.com/user-attachments/assets/3e76e9cd-403c-4484-8271-a7675c809884" width="600" height="auto" />
+</div> -->
+
 <h1 align="center">Hi 👋, I'm Anca Prodan</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from Romania, but also having good skills as a full-stack developer.</h3>
-
+<!-- 
+![output-onlinegiftools](https://github.com/user-attachments/assets/3e76e9cd-403c-4484-8271-a7675c809884)
+-->
 <div align="center">
   <img width="auto" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVhY2NkZnRqcGg2andyeGVtYTdoZ3J4ZmFkN2d4bDRoNHpma2ZocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
@@ -15,7 +21,7 @@
 
 - 📫 How to reach me **ancaprodan01@gmail.com** | **anca.prodan21@gmail.com**
 
-- 📄 Know about my experiences: [VIEW My CV](https://drive.google.com/file/d/1ZKYh4nZXG-dtV9ukzi2N2f6mukqW89R5/view?usp=sharing)
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ZKYh4nZXG-dtV9ukzi2N2f6mukqW89R5/view?usp=sharing" target="_blank" bgColor="red">VIEW My CV</a>
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Anca212000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" background-color:violet; /> -->
