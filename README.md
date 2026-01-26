@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ancaprodan01@gmail.com** | **anca.prodan21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JOydwe4W8HX5WnCcZ-Ob8CvUgdEYMF8Z/view?usp=drive_link](https://drive.google.com/file/d/1JOydwe4W8HX5WnCcZ-Ob8CvUgdEYMF8Z/view?usp=drive_link)
+- 📄 Know about my experiences: [VIEW My CV](https://drive.google.com/file/d/1ZKYh4nZXG-dtV9ukzi2N2f6mukqW89R5/view?usp=sharing)
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Anca212000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" background-color:violet; /> -->
