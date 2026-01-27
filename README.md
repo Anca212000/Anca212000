@@ -1,15 +1,13 @@
-<!-- <div align="center">
-  <img src="https://github.com/user-attachments/assets/3e76e9cd-403c-4484-8271-a7675c809884" width="600" height="auto" />
-</div> -->
-
-<h1 align="center">Hi 👋, I'm Anca Prodan</h1>
-<h3 align="center">A passionate frontend developer and UI/UX designer from Romania, but also having good skills as a full-stack developer.</h3>
-<!-- 
-![output-onlinegiftools](https://github.com/user-attachments/assets/3e76e9cd-403c-4484-8271-a7675c809884)
--->
 <div align="center">
-  <img width="auto" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVhY2NkZnRqcGg2andyeGVtYTdoZ3J4ZmFkN2d4bDRoNHpma2ZocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+  <img src="https://github.com/user-attachments/assets/bee69a13-5ad9-4a51-8812-fdc70f0ffacf" />
 </div>
+<!-- ![GitHub Profile Readme 650x300px (1)](https://github.com/user-attachments/assets/bee69a13-5ad9-4a51-8812-fdc70f0ffacf) -->
+<!-- <h1 align="center">Hi 👋, I'm Anca Prodan</h1>
+<h3 align="center">A passionate frontend developer and UI/UX designer from Romania, but also having good skills as a full-stack developer.</h3> -->
+
+<!-- <div align="center">
+  <img width="auto" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVhY2NkZnRqcGg2andyeGVtYTdoZ3J4ZmFkN2d4bDRoNHpma2ZocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+</div> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anca212000&label=Profile%20views&color=0e75b6&style=flat" alt="anca212000" /> </p>
 
