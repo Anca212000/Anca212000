@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bee69a13-5ad9-4a51-8812-fdc70f0ffacf" />
+  <img src="https://github.com/user-attachments/assets/51eb7098-02d2-45b6-8b20-e45ae146df03" />
 </div>
-<!-- ![GitHub Profile Readme 650x300px (1)](https://github.com/user-attachments/assets/bee69a13-5ad9-4a51-8812-fdc70f0ffacf) -->
+<!-- ![GitHub Profile Readme 650x300px (2)](https://github.com/user-attachments/assets/51eb7098-02d2-45b6-8b20-e45ae146df03) -->
+
 <!-- <h1 align="center">Hi 👋, I'm Anca Prodan</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from Romania, but also having good skills as a full-stack developer.</h3> -->
 
