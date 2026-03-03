@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/51eb7098-02d2-45b6-8b20-e45ae146df03" />
+  <!-- <img src="https://github.com/user-attachments/assets/51eb7098-02d2-45b6-8b20-e45ae146df03" /> -->
+  <img width="900" height="auto" alt="Cover Web Developer Simple" src="https://github.com/user-attachments/assets/0af83b2f-2f3d-4647-8bfd-b6ed0cd7c71d" />
 </div>
-<!-- ![GitHub Profile Readme 650x300px (2)](https://github.com/user-attachments/assets/51eb7098-02d2-45b6-8b20-e45ae146df03) -->
 
 <!-- <h1 align="center">Hi 👋, I'm Anca Prodan</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from Romania, but also having good skills as a full-stack developer.</h3> -->
@@ -12,15 +12,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anca212000&label=Profile%20views&color=0e75b6&style=flat" alt="anca212000" /> </p>
 
-- 🌱 I’m currently learning **React, Vue, TypeScript, Pandas (Python), Figma**
+#### 🌀 I’m currently learning **React, Vue, TypeScript, Pandas (Python), Figma**
 
-- 👨‍💻 All of my projects are available at [https://anca212000.github.io/Portfolio-Anca/](https://anca212000.github.io/Portfolio-Anca/)
+#### 🌐 My webpage [https://anca212000.github.io/Portfolio-Anca/](https://anca212000.github.io/Portfolio-Anca/)
 
-- 💬 Ask me about **React, Vue**
+#### 📫 How to reach me **anca.prodan21@gmail.com**
 
-- 📫 How to reach me **ancaprodan01@gmail.com** | **anca.prodan21@gmail.com**
-
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ZKYh4nZXG-dtV9ukzi2N2f6mukqW89R5/view?usp=sharing" target="_blank" bgColor="red">VIEW My CV</a>
+#### 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ZKYh4nZXG-dtV9ukzi2N2f6mukqW89R5/view?usp=sharing" target="_blank" bgColor="red">VIEW MY RESUME ➜</a>
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Anca212000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" background-color:violet; /> -->
